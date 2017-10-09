@@ -42,6 +42,11 @@
             <artifactId>maven-common-artifact-filters</artifactId>
             <version>LATEST</version>
         </dependency>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>bootstrap</artifactId>
+            <version>3.3.7-1</version>
+        </dependency>
 
 
         <dependency>
